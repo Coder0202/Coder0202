@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Coder0202](https://github.com/Coder0202)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java,HTML/CSS**
 
 - 📫 How to reach me **avinashbhople3@gmail.com**
 
