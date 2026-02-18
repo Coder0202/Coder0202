@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" class="emoji-float"> Hi 👋, I'm Avinash Subhash Bhople <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" class="emoji-float">
 </h1>
@@ -42,15 +41,31 @@
 ---
 
 ### 🌐 Connect with Me
-<p align="center">
- 
-  <a href="https://www.linkedin.com/in/avinashbhople0202" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/mr_avi_patil_02_" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; box-shadow: 0 4px 16px rgba(0,0,0,0.2); margin: 20px 0;">
+  <p align="center">
+    <img src="https://media.giphy.com/media/3o7TKz9bX9R8zg8qCG/giphy.gif" width="80" style="border-radius: 10px; margin-bottom: 10px;">
+  </p>
+  <p style="font-size: 18px; color: white; font-weight: bold; margin-bottom: 10px;">
+    🌟 Let's Link Up & Code Together! 🚀
+  </p>
+  <p style="font-size: 16px; color: #f0f0f0; line-height: 1.6; margin-bottom: 20px;">
+    Whether it's brainstorming epic projects, sharing coding hacks, or geeking out over the latest tech trends, I'm all ears! Drop a message, let's collaborate, and turn ideas into reality. 💻✨
+  </p>
+  <p align="center">
+    <a href="https://github.com/Coder0202" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="50" style="margin: 0 10px; transition: transform 0.3s;" />
+    </a>
+    <a href="https://www.linkedin.com/in/avinashbhople0202" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" style="margin: 0 10px; transition: transform 0.3s;" />
+    </a>
+    <a href="https://instagram.com/mr_avi_patil_02_" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50" style="margin: 0 10px; transition: transform 0.3s;" />
+    </a>
+    <a href="https://leetcode.com/u/A_Codes02/" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="50" style="margin: 0 10px; transition: transform 0.3s;" />
+    </a>
+  </p>
+</div>
 
 ---
 
