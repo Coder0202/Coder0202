@@ -70,9 +70,20 @@
 ---
 
 ### 🛠️ Languages and Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,nodejs,html,css,js,react,redux,c,cpp,python,linux&theme=dark" />
-</p>
+<div align="center" style="background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%); padding: 20px; border-radius: 15px; box-shadow: 0 4px 16px rgba(0,0,0,0.2); margin: 20px 0;">
+  <p align="center">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="80" style="border-radius: 10px; margin-bottom: 10px;">
+  </p>
+  <p style="font-size: 18px; color: #333; font-weight: bold; margin-bottom: 10px;">
+    🔧 My Tech Arsenal: Powering Innovation! ⚙️
+  </p>
+  <p style="font-size: 16px; color: #555; line-height: 1.6; margin-bottom: 20px;">
+    From robust backend systems with Java and Spring Boot to dynamic frontends with React and Node.js, I wield a versatile toolkit to bring ideas to life. Whether it's crafting microservices, securing apps, or scripting in Python, these tools are my trusty companions in the coding adventure! 🚀💡
+  </p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,nodejs,html,css,js,react,redux,c,cpp,python,linux&theme=dark" />
+  </p>
+</div>
 
 ---
 
